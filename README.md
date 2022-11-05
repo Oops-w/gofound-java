@@ -1,1 +1,3 @@
 # GoFound Java客户端
+
+maven依赖正在申请中.....
